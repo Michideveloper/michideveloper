@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Bootcamps & meetups in GDL**
+- 💬 Ask me about **Bootcamps & meetups in GDL 🍻🍺**
 
 - ⚡ Fun fact **my friends call me michi**
 
