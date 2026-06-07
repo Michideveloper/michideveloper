@@ -1,4 +1,5 @@
-# Hi there, I'm José! Junior QA Automation Engineer | Selenium | Playwright | CI/CD | Open to opportunities
+# Hi there, I'm José! 
+## Junior QA Automation Engineer | Selenium | Playwright | CI/CD | Open to opportunities
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=José%20|%20QA%20Automation&fontSize=40&animation=fadeIn" alt="Header Banner" />
