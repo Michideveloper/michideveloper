@@ -1,5 +1,5 @@
 # Hi there, I'm José! 
-## Junior QA Automation Engineer | Selenium | Playwright | CI/CD | Open to opportunities
+## Junior QA Automation Engineer | Playwright | CI/CD | Open to opportunities
 ## Portfolio ->  https://github-qa.vercel.app/
 
 <p align="center">
@@ -24,9 +24,6 @@ I am a passionate and detail-oriented **Junior QA Automation Engineer** focused 
 
 ### Languages & Frameworks
 <p align="left">
-  <a href="https://www.oracle.com/java/">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
@@ -37,9 +34,6 @@ I am a passionate and detail-oriented **Junior QA Automation Engineer** focused 
 
 ### Automation Testing Tools
 <p align="left">
-  <a href="https://www.selenium.dev/">
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  </a>
   <a href="https://playwright.dev/">
     <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   </a>
