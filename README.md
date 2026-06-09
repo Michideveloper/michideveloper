@@ -72,15 +72,14 @@ I am a passionate and detail-oriented **Junior QA Automation Engineer** focused 
 
 ## Featured Projects
 
-Here are some key projects that showcase my automated testing experience:
+Here are key projects demonstrating real-world QA automation workflows, including test design, execution, and CI/CD integration:
 
-| Project | Description | Key Tech Stack |
-| :--- | :--- | :--- |
-| **[Selenium Java Framework](https://github.com/Michideveloper/selenium-framework)** | Built a scalable, robust test automation framework from scratch. Implemented the **Page Object Model (POM)** for maximum code reusability and maintainability. | `Java`, `Selenium WebDriver`, `TestNG`, `POM` |
-| **[Playwright E2E Suite](https://github.com/Michideveloper/playwright-suite)** | Developed comprehensive end-to-end integration tests validating complex user scenarios, dynamic element behavior, and state changes. | `TypeScript`, `Playwright`, `POM` |
-| **[CI/CD Testing Pipeline](https://github.com/Michideveloper/cicd-pipeline)** | Configured continuous integration workflows to trigger automatically on code pushes, executing test suites in headless mode and archiving execution reports. | `GitHub Actions`, `Git` |
+| Project                                                                                                    | Description                                                                                                                                                                                     | Key Tech Stack                             |
+| :--------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
+| **[QA E2E E-commerce Automation](https://github.com/Michideveloper/qa-e2e-ecommerce-automation)**          | Production-like QA automation framework simulating real-world e-commerce testing workflows. Covers test planning, test cases, defect reporting, and full E2E automation with CI/CD integration. | `TypeScript`, `Playwright`, `POM`, `CI/CD` |
+| **[Playwright E2E Testing Framework](https://github.com/Michideveloper/playwright-e2e-testing-framework)** | High-performance automation framework built with Playwright, featuring modular architecture, reusable components, parallel execution, and advanced reporting.                                   | `TypeScript`, `Playwright`, `POM`          |
+| **[API Testing with Postman](https://github.com/Michideveloper/api-testing-postman)**                      | API automation suite covering CRUD operations, dynamic data handling, and automated test execution using Newman with HTML reporting.                                                            | `Postman`, `Newman`, `API Testing`         |
 
----
 
 ## Core Strengths & Soft Skills
 
