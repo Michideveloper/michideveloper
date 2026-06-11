@@ -102,7 +102,7 @@ I am actively seeking a **Junior QA Automation Engineer** role (based in Guadala
 ## Languages
 
 * **Spanish:** Native
-* **English:** B2 (Professional Working Proficiency)
+* **English:** B2 (Professional Working Proficiency) 
 
 ---
 
