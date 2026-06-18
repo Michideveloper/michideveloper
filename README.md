@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Michideveloper&color=663399&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+</p> 
 
 ## About Me
 
