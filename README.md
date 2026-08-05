@@ -1,8 +1,8 @@
 # Hi there, I'm José Gómez 👋
 
-## Founder @ MichiStack Labs | Software Engineer | AI & Automation | Scalable Systems
+## Founder @ MichiStack Labs | AI-Driven Software Engineer | Automation & Scalable Systems
 
-Building privacy-focused products and scalable technology solutions at the intersection of software, automation, data, and real-world systems.
+Building AI-driven software products and scalable technology solutions at the intersection of software, automation, data, and real-world systems.
 
 🌎 Guadalajara, Jalisco, Mexico  
 🚀 Founder of **MichiStack Labs**
@@ -13,7 +13,7 @@ https://michi-stack.vercel.app/
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=José%20%7C%20Software%20Engineer&fontSize=40&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=José%20%7C%20AI-Driven%20Engineer&fontSize=40&animation=fadeIn" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -24,7 +24,9 @@ https://michi-stack.vercel.app/
 
 # About Me
 
-I am an engineering student and Founder of **MichiStack Labs**, focused on building scalable software systems, automation solutions, and privacy-oriented products.
+I am an **AI-driven engineering student and Founder of MichiStack Labs**, focused on building scalable software systems, automation solutions, and privacy-conscious products.
+
+I leverage artificial intelligence as an engineering multiplier to accelerate development, explore solutions, improve workflows, and create better software while maintaining strong foundations in architecture, databases, and system design.
 
 My multidisciplinary background combines:
 
@@ -32,41 +34,42 @@ My multidisciplinary background combines:
 - **Mechatronics Engineering:** robotics, automation, control systems, and software-hardware integration.
 - **Business Management Engineering:** process optimization, strategic thinking, and technology-driven solutions.
 
-I enjoy building systems where software, data, automation, and user experience come together to solve real-world problems.
+I enjoy creating systems where software, data, automation, AI, and user experience come together to solve real-world problems.
 
 Currently focused on:
 
 - Backend development using Node.js and modern APIs.
 - SQL and NoSQL database systems.
-- Data Engineering fundamentals (ETL, ingestion pipelines, data transformation).
-- AI automation and intelligent workflows.
-- Privacy-focused software products.
+- Data Engineering fundamentals (ETL, ingestion pipelines, and data transformation).
+- AI-driven development workflows.
+- Intelligent automation systems.
+- Privacy-conscious software products.
 
 ---
 
 # 🐱 MichiStack Labs
 
-**MichiStack Labs** is an independent software initiative focused on creating useful technology products with emphasis on privacy, performance, automation, and user experience.
+**MichiStack Labs** is an AI-driven software initiative focused on creating useful technology products with emphasis on privacy, performance, automation, and user experience.
 
 The goal is to build simple, high-impact software solutions that improve how people interact with technology.
 
 ## Current Focus
 
+- AI-powered applications.
 - Browser-based productivity tools.
-- AI-assisted applications.
-- Automation workflows.
+- Intelligent automation workflows.
 - Backend systems and scalable architectures.
-- Privacy-oriented software products.
+- Privacy-conscious software solutions.
 
 ## Products
 
 ### MichiTabs
 
-Browser-based productivity tools designed to improve workflows and browsing experience.
+Browser-based productivity tools designed to improve workflows, organization, and browsing experience.
 
 ### MichiClean
 
-Privacy-focused utilities designed to improve performance, organization, and user control.
+Privacy-conscious utilities designed to improve performance, organization, and user control.
 
 ---
 
@@ -104,9 +107,11 @@ Privacy-focused utilities designed to improve performance, organization, and use
 
 ---
 
-## APIs & Automation
+## AI, APIs & Automation
 
 <p align="left">
+
+<img src="https://img.shields.io/badge/AI%20Engineering-412991?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" />
 
@@ -138,11 +143,11 @@ Privacy-focused utilities designed to improve performance, organization, and use
 
 **Feb 2026 - Present**
 
-Building privacy-first products and scalable systems at the intersection of software, automation, and user experience.
+Building AI-driven software products and scalable systems focused on privacy, performance, automation, and user experience.
 
 Focus areas:
 
-- Product development.
+- AI-driven product development.
 - Backend architecture.
 - Software design.
 - Automation workflows.
@@ -158,10 +163,10 @@ Working on AI-focused backend systems and intelligent workflows.
 
 Experience with:
 
-- Backend components.
+- AI-driven backend systems.
 - REST APIs.
 - RAG pipelines.
-- AI-driven workflows.
+- Intelligent workflows.
 - Modern AI development tools.
 - Production-oriented engineering practices.
 
@@ -171,7 +176,7 @@ Experience with:
 
 **May 2026 - Present**
 
-Developing internal systems focused on operational efficiency and data management.
+Developing internal systems focused on operational efficiency and structured data management.
 
 Contributions:
 
@@ -182,7 +187,7 @@ Contributions:
 
 Technologies:
 
-React.js · Ant Design · Zustand · Axios · REST APIs · AI-assisted development
+React.js · Ant Design · Zustand · Axios · REST APIs · AI-driven development
 
 ---
 
@@ -190,7 +195,7 @@ React.js · Ant Design · Zustand · Axios · REST APIs · AI-assisted developme
 
 ## 🐱 MichiStack Products
 
-Privacy-focused software products designed to improve productivity, performance, and user experience.
+AI-driven software products focused on improving productivity, performance, and digital workflows.
 
 ---
 
@@ -210,7 +215,7 @@ Projects focused on:
 
 Projects involving:
 
-- AI-assisted workflows.
+- AI-driven workflows.
 - Intelligent automation.
 - Data-driven systems.
 - Service integrations.
@@ -228,6 +233,7 @@ Projects involving:
 - ETL Pipelines
 - System Architecture
 - Automation
+- AI-Driven Development
 - Software Development Lifecycle
 
 ## Mechatronics Engineering
@@ -320,8 +326,8 @@ Business Analysis · Business Planning · Process Optimization
 
 Currently interested in opportunities as:
 
+- AI-Driven Software Engineer.
 - Backend Engineer Intern / Junior Engineer.
-- Software Engineer.
 - Data Engineering Intern.
 - AI Automation Engineer.
 
@@ -339,7 +345,7 @@ Interested in building scalable systems, intelligent software, and technology pr
 
 # Connect
 
-Interested in software, automation, AI systems, or collaboration opportunities?
+Interested in software, AI, automation, or building technology products?
 
 Let's build useful technology 🚀
 
