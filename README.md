@@ -1,49 +1,64 @@
 # Hi there, I'm José Gómez 👋
 
-## Founder @ MichiStack Labs | Engineer in Scalable Systems, AI & Automation | Privacy-Focused Products
+## Founder @ MichiStack Labs | Software Engineer | AI & Automation | Scalable Systems
 
-Building scalable systems, privacy-focused products, and automation solutions.
+Building privacy-focused products and scalable technology solutions at the intersection of software, automation, data, and real-world systems.
 
-🌎 Guadalajara, Mexico
+🌎 Guadalajara, Jalisco, Mexico  
 🚀 Founder of **MichiStack Labs**
 
-Website:
+## Website
 https://michi-stack.vercel.app/
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=José%20%7C%20Software%20Engineer&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=José%20%7C%20Software%20Engineer&fontSize=40&animation=fadeIn" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Michideveloper&color=663399&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Michideveloper&color=663399&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
 # About Me
 
-I am a Software Engineering student and Founder of **MichiStack Labs**, focused on building scalable software systems, automation workflows, and privacy-oriented products.
+I am an engineering student and Founder of **MichiStack Labs**, focused on building scalable software systems, automation solutions, and privacy-oriented products.
 
-My technical interests include:
+My multidisciplinary background combines:
 
-* Backend development and API-based systems.
-* SQL and NoSQL database architectures.
-* Data Engineering fundamentals.
-* ETL pipelines and data processing workflows.
-* AI-powered applications and automation.
-* Building reliable software products from idea to implementation.
+- **Software Development:** web and mobile applications, backend systems, APIs, databases, and software architecture.
+- **Mechatronics Engineering:** robotics, automation, control systems, and software-hardware integration.
+- **Business Management Engineering:** process optimization, strategic thinking, and technology-driven solutions.
 
-I enjoy creating systems where APIs, databases, automation, and user experience work together.
+I enjoy building systems where software, data, automation, and user experience come together to solve real-world problems.
+
+Currently focused on:
+
+- Backend development using Node.js and modern APIs.
+- SQL and NoSQL database systems.
+- Data Engineering fundamentals (ETL, ingestion pipelines, data transformation).
+- AI automation and intelligent workflows.
+- Privacy-focused software products.
 
 ---
 
 # 🐱 MichiStack Labs
 
-**MichiStack Labs** is an independent software initiative focused on creating privacy-first products and practical technology solutions.
+**MichiStack Labs** is an independent software initiative focused on creating useful technology products with emphasis on privacy, performance, automation, and user experience.
 
-Current projects:
+The goal is to build simple, high-impact software solutions that improve how people interact with technology.
+
+## Current Focus
+
+- Browser-based productivity tools.
+- AI-assisted applications.
+- Automation workflows.
+- Backend systems and scalable architectures.
+- Privacy-oriented software products.
+
+## Products
 
 ### MichiTabs
 
@@ -51,141 +66,253 @@ Browser-based productivity tools designed to improve workflows and browsing expe
 
 ### MichiClean
 
-Privacy-focused utilities focused on performance, organization, and user control.
-
-Main focus:
-
-* Software products
-* Automation systems
-* Backend architectures
-* AI-assisted workflows
+Privacy-focused utilities designed to improve performance, organization, and user control.
 
 ---
 
-# Tech Stack
+# Tech Stack & Tools
 
 ## Backend & Programming
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </p>
 
-## Databases & Data
+---
+
+## Databases & Data Engineering
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Data%20Engineering-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Data%20Engineering-0A66C2?style=for-the-badge" />
 
 </p>
+
+---
 
 ## APIs & Automation
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-</p>
-
-## Tools
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </p>
 
 ---
 
-# Experience
+## Development Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+
+</p>
+
+---
+
+# Professional Experience
 
 ## Founder & Engineer — MichiStack Labs
 
-Building privacy-first products and scalable software systems.
+**Feb 2026 - Present**
 
-Focused on:
+Building privacy-first products and scalable systems at the intersection of software, automation, and user experience.
 
-* Product development.
-* Backend architecture.
-* Automation.
-* Software engineering practices.
+Focus areas:
+
+- Product development.
+- Backend architecture.
+- Software design.
+- Automation workflows.
+- Technology solutions from concept to implementation.
 
 ---
 
 ## AI Engineering Intern — FlyRank AI
 
-Working on AI-driven backend systems:
+**Jun 2026 - Present**
 
-* Backend components.
-* APIs.
-* RAG pipelines.
-* AI workflows.
-* Production-oriented engineering practices.
+Working on AI-focused backend systems and intelligent workflows.
+
+Experience with:
+
+- Backend components.
+- REST APIs.
+- RAG pipelines.
+- AI-driven workflows.
+- Modern AI development tools.
+- Production-oriented engineering practices.
 
 ---
 
 ## Software Engineer Intern — Estrategia Solidaria Grupo Consultor
 
-Developing internal systems focused on:
+**May 2026 - Present**
 
-* Administrative workflows.
-* Data management.
-* REST APIs.
-* Frontend/backend integration.
+Developing internal systems focused on operational efficiency and data management.
+
+Contributions:
+
+- Built administrative systems for managing users, tutors, payments, and academic processes.
+- Developed CRUD operations and REST API integrations.
+- Designed data flows between frontend and backend systems.
+- Improved workflows through automation and structured data management.
 
 Technologies:
 
-React.js · REST APIs · Zustand · Axios · Ant Design
+React.js · Ant Design · Zustand · Axios · REST APIs · AI-assisted development
 
 ---
 
 # Featured Projects
 
-## MichiStack Products
+## 🐱 MichiStack Products
 
-Privacy-focused software products designed to improve productivity and user experience.
+Privacy-focused software products designed to improve productivity, performance, and user experience.
 
 ---
 
-## AI & Backend Systems
+## Backend & Data Systems
+
+Projects focused on:
+
+- API development.
+- Database architecture.
+- Data processing.
+- Backend services.
+- Scalable application design.
+
+---
+
+## AI Automation
 
 Projects involving:
 
-* API development.
-* Data processing.
-* Automation workflows.
-* AI integrations.
+- AI-assisted workflows.
+- Intelligent automation.
+- Data-driven systems.
+- Service integrations.
 
 ---
 
-## Engineering Skills
+# Engineering Skills
 
-* Backend development
-* API design
-* Database systems
-* Data pipelines
-* Automation
-* System architecture
-* Problem solving
+## Software Engineering
+
+- Backend Development
+- API Design
+- Database Systems
+- Data Engineering
+- ETL Pipelines
+- System Architecture
+- Automation
+- Software Development Lifecycle
+
+## Mechatronics Engineering
+
+- Robotics
+- Industrial Automation
+- Control Systems
+- Hardware and Software Integration
+- Intelligent Systems
+
+## Business Engineering
+
+- Business Analysis
+- Process Optimization
+- Project Management
+- Strategic Planning
+- Technology Solutions
+
+---
+
+# Education
+
+## Universidad Tecnológica de Jalisco (UTJ)
+
+### Associate Degree in Cross-Platform Software Development
+
+**Sep 2023 - Aug 2026**
+
+Graduated with GPA: **9.6/10**
+
+Focus areas:
+
+- Software development.
+- Web and mobile applications.
+- Programming.
+- Database systems.
+- API development.
+- Software design.
+- Agile development practices.
+
+Skills:
+
+Git · Postman API · Databases · Software Development
+
+---
+
+### Bachelor's Degree in Mechatronics Engineering
+
+**Aug 2026 - May 2030**
+
+Focus areas:
+
+- Robotics.
+- Automation.
+- Control systems.
+- Mechatronic system integration.
+- Software and hardware interaction.
+
+Developing knowledge in designing intelligent systems that combine mechanical, electronic, and software components.
+
+Skills:
+
+Robotics · Automation · Control Systems
+
+---
+
+## Tecnológico Nacional de México (TecNM)
+
+### Bachelor's Degree in Business Management Engineering
+
+**Aug 2026 - Jul 2031**
+
+Focus areas:
+
+- Business strategy.
+- Process improvement.
+- Organizational development.
+- Project management.
+- Data-driven decision making.
+
+Developing the ability to connect technology solutions with business objectives and operational improvement.
+
+Skills:
+
+Business Analysis · Business Planning · Process Optimization
 
 ---
 
@@ -193,26 +320,37 @@ Projects involving:
 
 Currently interested in opportunities as:
 
-* Backend Engineer Intern
-* Software Engineer Intern
-* Data Engineering Intern
-* AI Automation Engineer
+- Backend Engineer Intern / Junior Engineer.
+- Software Engineer.
+- Data Engineering Intern.
+- AI Automation Engineer.
 
-Focused on building scalable systems and useful technology products.
+Interested in building scalable systems, intelligent software, and technology products that create real-world impact.
 
 ---
 
 # Languages
 
 🇲🇽 Spanish — Native
+
 🇺🇸 English — B2 Professional Working Proficiency
 
 ---
 
 # Connect
 
-LinkedIn:
-https://www.linkedin.com/in/devjosegomez/
+Interested in software, automation, AI systems, or collaboration opportunities?
 
-Email:
-[devjosegomez@gmail.com](mailto:devjosegomez@gmail.com)
+Let's build useful technology 🚀
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/michideveloper/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:michistacklabs@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
