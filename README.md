@@ -1,126 +1,218 @@
-# Hi there, I'm José! 
-## Junior QA Automation Engineer | Playwright | CI/CD | Open to opportunities
-## Portfolio ->  https://github-qa.vercel.app/ 
- 
+# Hi there, I'm José Gómez 👋
+
+## Founder @ MichiStack Labs | Software Engineer | Backend | AI & Automation
+
+Building scalable systems, privacy-focused products, and automation solutions.
+
+🌎 Guadalajara, Mexico
+🚀 Founder of **MichiStack Labs**
+
+Website:
+https://michi-stack.vercel.app/
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=José%20|%20QA%20Automation&fontSize=40&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=José%20%7C%20Software%20Engineer&fontSize=40&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Michideveloper&color=663399&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p> 
-
-## About Me
-
-I am a passionate and detail-oriented **Junior QA Automation Engineer** focused on building robust, scalable test automation frameworks and implementing comprehensive end-to-end (E2E) testing solutions. 
-
-* Focused on creating reliable automated UI and API tests.
-* Experienced in designing maintainable test structures using the **Page Object Model (POM)** pattern.
-* Passionate about integrating automated testing into **CI/CD pipelines** for continuous quality feedback.
-
----
-
-## Tech Stack & Tools
-
-### Languages & Frameworks
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-</p>
-
-### Automation Testing Tools
-<p align="left">
-  <a href="https://playwright.dev/">
-    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  </a>
-  <a href="https://testng.org/">
-    <img src="https://img.shields.io/badge/TestNG-FF9900?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" />
-  </a>
-</p>
-
-### DevOps & Version Control
-<p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/features/actions">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  </a>
-</p>
-
-### API & Project Management
-<p align="left">
-  <a href="https://www.postman.com/">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  </a>
-  <a href="https://www.atlassian.com/software/jira">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  </a>
-  <a href="https://trello.com/">
-    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Michideveloper&color=663399&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-## Featured Projects
+# About Me
 
-Here are key projects demonstrating real-world QA automation workflows, including test design, execution, and CI/CD integration:
+I am a Software Engineering student and Founder of **MichiStack Labs**, focused on building scalable software systems, automation workflows, and privacy-oriented products.
 
-| Project                                                                                                    | Description                                                                                                                                                                                     | Key Tech Stack                             |
-| :--------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-| **[QA E2E E-commerce Automation](https://github.com/Michideveloper/qa-e2e-ecommerce-automation)**          | Production-like QA automation framework simulating real-world e-commerce testing workflows. Covers test planning, test cases, defect reporting, and full E2E automation with CI/CD integration. | `TypeScript`, `Playwright`, `POM`, `CI/CD` |
-| **[Playwright E2E Testing Framework](https://github.com/Michideveloper/playwright-e2e-testing-framework)** | High-performance automation framework built with Playwright, featuring modular architecture, reusable components, parallel execution, and advanced reporting.                                   | `TypeScript`, `Playwright`, `POM`          |
-| **[API Testing with Postman](https://github.com/Michideveloper/api-testing-postman)**                      | API automation suite covering CRUD operations, dynamic data handling, and automated test execution using Newman with HTML reporting.                                                            | `Postman`, `Newman`, `API Testing`         |
+My technical interests include:
 
+* Backend development and API-based systems.
+* SQL and NoSQL database architectures.
+* Data Engineering fundamentals.
+* ETL pipelines and data processing workflows.
+* AI-powered applications and automation.
+* Building reliable software products from idea to implementation.
 
-## Core Strengths & Soft Skills
-
-* **Analytical & Critical Thinking:** Skilled in uncovering edge cases, identifying integration risks, and designing thorough test coverage.
-* **Problem Solving & Debugging:** Strong ability to diagnose test failures, analyze root causes, and build robust, non-flaky test scripts.
-* **Cross-Functional Collaboration:** Fluent in communicating quality risks and collaborating closely with Developers, Product Owners, and Scrum Masters.
-* **Agile Adaptability:** Highly responsive to fast-paced releases and continuous integration/delivery environments.
+I enjoy creating systems where APIs, databases, automation, and user experience work together.
 
 ---
 
-## Career Focus & Goals
+# 🐱 MichiStack Labs
 
-I am actively seeking a **Junior QA Automation Engineer** role (based in Guadalajara, Mexico, open to Local, Hybrid, and Remote opportunities worldwide) where I can:
-- Help teams ensure software quality and release readiness.
-- Collaborate on modern automated testing frameworks.
-- Continuously learn and adapt to the latest QA and DevOps methodologies.
+**MichiStack Labs** is an independent software initiative focused on creating privacy-first products and practical technology solutions.
+
+Current projects:
+
+### MichiTabs
+
+Browser-based productivity tools designed to improve workflows and browsing experience.
+
+### MichiClean
+
+Privacy-focused utilities focused on performance, organization, and user control.
+
+Main focus:
+
+* Software products
+* Automation systems
+* Backend architectures
+* AI-assisted workflows
 
 ---
 
-## Languages
+# Tech Stack
 
-* **Spanish:** Native
-* **English:** B2 (Professional Working Proficiency) 
-
----
-
-## Contact & Connect
-
-Let's discuss how I can contribute to your team's quality standards!
+## Backend & Programming
 
 <p align="left">
-  <a href="mailto:devjosegomez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/devjosegomez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/Michideveloper">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://codeforces.com/profile/devjosegomez">
-    <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 </p>
+
+## Databases & Data
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Engineering-FF6F00?style=for-the-badge"/>
+
+</p>
+
+## APIs & Automation
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</p>
+
+## Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+</p>
+
+---
+
+# Experience
+
+## Founder & Engineer — MichiStack Labs
+
+Building privacy-first products and scalable software systems.
+
+Focused on:
+
+* Product development.
+* Backend architecture.
+* Automation.
+* Software engineering practices.
+
+---
+
+## AI Engineering Intern — FlyRank AI
+
+Working on AI-driven backend systems:
+
+* Backend components.
+* APIs.
+* RAG pipelines.
+* AI workflows.
+* Production-oriented engineering practices.
+
+---
+
+## Software Engineer Intern — Estrategia Solidaria Grupo Consultor
+
+Developing internal systems focused on:
+
+* Administrative workflows.
+* Data management.
+* REST APIs.
+* Frontend/backend integration.
+
+Technologies:
+
+React.js · REST APIs · Zustand · Axios · Ant Design
+
+---
+
+# Featured Projects
+
+## MichiStack Products
+
+Privacy-focused software products designed to improve productivity and user experience.
+
+---
+
+## AI & Backend Systems
+
+Projects involving:
+
+* API development.
+* Data processing.
+* Automation workflows.
+* AI integrations.
+
+---
+
+## Engineering Skills
+
+* Backend development
+* API design
+* Database systems
+* Data pipelines
+* Automation
+* System architecture
+* Problem solving
+
+---
+
+# Career Goals
+
+Currently interested in opportunities as:
+
+* Backend Engineer Intern
+* Software Engineer Intern
+* Data Engineering Intern
+* AI Automation Engineer
+
+Focused on building scalable systems and useful technology products.
+
+---
+
+# Languages
+
+🇲🇽 Spanish — Native
+🇺🇸 English — B2 Professional Working Proficiency
+
+---
+
+# Connect
+
+LinkedIn:
+https://www.linkedin.com/in/devjosegomez/
+
+Email:
+[devjosegomez@gmail.com](mailto:devjosegomez@gmail.com)
