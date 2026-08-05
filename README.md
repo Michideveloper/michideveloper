@@ -1,6 +1,6 @@
 # Hi there, I'm José Gómez 👋
 
-## Founder @ MichiStack Labs | Software Engineer | Backend | AI & Automation
+## Founder @ MichiStack Labs | Engineer in Scalable Systems, AI & Automation | Privacy-Focused Products
 
 Building scalable systems, privacy-focused products, and automation solutions.
 
