@@ -1,220 +1,234 @@
-# José Gómez
+# MichiStack Labs 🐱
 
-## Founder @ MichiStack Labs | Building Software Products, Developer Tools & Privacy-First Systems
+## Engineering software products, developer tools, and privacy-first systems.
 
-Building software systems, developer tools, and privacy-first products.
+MichiStack Labs is an independent software lab based in Mexico focused on designing and building reliable software products, automation systems, developer tools, and privacy-conscious applications.
 
-I focus on solving complex engineering problems through:
+We combine:
 
-- Strong software architecture
-- Product-driven development
+- Software engineering
+- Product thinking
+- Systems design
 - Automation
-- Developer experience
-- Privacy-first engineering
+- Privacy engineering
+
+to create technology that is useful, maintainable, and respectful of user control.
 
 ---
 
 # Engineering Philosophy
 
-Great software is not defined by the amount of code written.
+## Build systems that earn trust.
 
-It is defined by:
+Software is not only about writing code.
 
-- The problems it solves
-- The systems it enables
-- The users it helps
-- The constraints it handles
+It is about:
 
-My approach:
+- Understanding real problems
+- Designing effective solutions
+- Managing complexity
+- Making responsible technical decisions
+- Creating reliable experiences
 
-> Build simple solutions to complex problems, with engineering discipline and continuous improvement.
+Our principle:
+
+> Simple solutions. Strong engineering. Long-term thinking.
 
 ---
 
-# What I Build
+# Core Principles
 
-## Product Engineering
+## Architecture Before Complexity
 
-I design and build complete software products from concept to implementation.
+Good systems are built through intentional decisions.
+
+We prioritize:
+
+- Clear boundaries
+- Maintainable architectures
+- Appropriate abstractions
+- Sustainable engineering choices
+
+---
+
+## Privacy As Architecture
+
+Privacy is not an optional feature.
+
+It is a design constraint.
+
+Our products prioritize:
+
+- Local-first processing
+- Minimal data collection
+- User ownership
+- Transparent behavior
+
+---
+
+## Engineering Leverage
+
+AI and automation are used as engineering multipliers.
+
+They accelerate:
+
+- Exploration
+- Prototyping
+- Testing
+- Debugging
+- Development workflows
+
+AI improves execution.
+
+Engineering judgment defines direction.
+
+---
+
+# What We Build
+
+## Software Products
+
+Building complete software products from concept to implementation.
 
 Focus areas:
 
-- Architecture design
+- Web applications
 - Backend systems
 - Developer tools
-- User-focused applications
-- Technical decision making
+- User-focused products
+- Product infrastructure
 
 ---
 
-## Systems Engineering
+## Backend & Systems Engineering
 
-Building reliable foundations:
+Designing reliable foundations for modern applications:
 
 - APIs
 - Data systems
+- Application architecture
 - Automation infrastructure
-- Testing frameworks
-- Software platforms
+- Internal platforms
 
-Key principles:
+Engineering priorities:
 
-- Maintainability
 - Reliability
-- Performance
 - Security
-- Simplicity
+- Maintainability
+- Performance
 
 ---
 
-## Developer Productivity
+## Automation & Developer Experience
 
-Improving how software is built.
+Creating tools and systems that improve how software is built.
 
-Building:
+Examples:
 
-- Automation workflows
 - Testing infrastructure
-- Development tools
+- Automation workflows
+- Developer utilities
 - Engineering processes
 
 ---
 
-# Selected Work
+# Selected Engineering Work
 
-## MichiClean
+## 🧹 MichiClean
 
 ### Privacy-first URL Processing System
 
-A browser extension focused on protecting user privacy through local-first processing.
+A browser extension designed around local-first privacy principles.
 
-Engineering decisions:
+MichiClean removes tracking parameters locally before URLs leave the user's device.
 
-- Zero external data transmission
-- Local execution architecture
-- Conservative reliability-focused filtering
+### Design Decisions
 
-Impact:
+- Local processing instead of external services
+- Zero telemetry architecture
+- No browsing history collection
+- Reliability-focused filtering approach
 
-- 118 cleaning providers supported
+### Engineering Metrics
+
+- 118 cleaning providers implemented
 - 34 redirect networks handled
-- 218 regression tests
+- 218 regression scenarios automated
+- 0 user data transmitted
 
 ---
 
-## MichiTabs
+## 🐱 MichiTabs
 
-### Browser Context Management System
+### Local-first Browser Context Management
 
-A local-first system designed around preserving user workflows and information context.
+A productivity system designed around preserving workflow context and user ownership of information.
 
-Focus:
+### Design Goals
 
-- Data ownership
-- Local persistence
-- Workflow recovery
-- User control
-
----
-
-# Engineering Practices
-
-## Architecture
-
-I care about:
-
-- Clear boundaries
-- Maintainable systems
-- Appropriate abstractions
-- Long-term technical decisions
-
-## Quality
-
-Quality is built into the development process.
-
-Practices:
-
-- Automated testing
-- Continuous validation
-- Regression prevention
-- Reliable delivery
-
-## AI-Assisted Engineering
-
-AI is used as a force multiplier.
-
-Applications:
-
-- Faster exploration
-- Improved iteration cycles
-- Automated repetitive tasks
-- Better development workflows
-
-AI accelerates execution.
-
-Engineering judgment drives decisions.
+- Keep data local
+- Preserve working context
+- Enable recovery workflows
+- Maintain simplicity
 
 ---
 
-# Technical Domains
+# Engineering Expertise
 
-## Software Development
+## Software Engineering
 
-- Backend Systems
-- Web Applications
-- APIs
-- Databases
-- Automation
+- Backend Development
+- Full-stack Applications
+- API Design
+- Database Systems
+- Software Architecture
 
 ## Quality Engineering
 
 - End-to-end Testing
 - API Testing
-- Test Infrastructure
+- Regression Systems
+- Automation Infrastructure
 
-## Data Systems
+## Application Development
 
-- Data Processing
-- ETL Workflows
-- Storage Systems
+- TypeScript
+- JavaScript
+- Python
+- Node.js
+- React
 
 ## Privacy Engineering
 
-- Local-first Architecture
-- Minimal Data Collection
-- User-controlled Systems
+- Local-first Systems
+- Minimal Data Architectures
+- User-controlled Software
 
 ---
 
-# Founder Experience
+# Engineering Mindset
 
-## MichiStack Labs
+We believe strong engineering comes from balancing:
 
-Building independent software products focused on:
+## Technical Excellence
 
-- Privacy
-- Developer experience
-- Practical technology solutions
+Building systems that are:
 
-Responsibilities:
+- Reliable
+- Maintainable
+- Understandable
 
-- Product direction
-- Technical decisions
-- Software architecture
-- Implementation
-- Iteration
+## Product Impact
 
----
+Building solutions that:
 
-# Current Exploration
+- Solve real problems
+- Improve workflows
+- Create meaningful value
 
-Interested in:
+## Continuous Improvement
 
-- Distributed systems
-- Security engineering
-- Large-scale software architecture
-- Developer infrastructure
-- Product engineering
+Every system is an opportunity to learn, measure, and improve.
 
 ---
 
@@ -222,20 +236,31 @@ Interested in:
 
 Open to:
 
-- Building ambitious products
-- Working with engineering teams
-- Solving difficult technical problems
-- Collaborating with developers and founders
+- Building software products
+- Developing technical solutions
+- Collaborating with engineering teams
+- Solving challenging problems
+
+---
+
+# Engineering Notes
+
+Sharing knowledge about:
+
+- Software architecture
+- Privacy-first design
+- Developer tools
+- Automation systems
+- Product engineering
 
 ---
 
 # Contact
 
 Website:
+
 https://michi-stack.vercel.app/
 
-LinkedIn:
-https://www.linkedin.com/in/michideveloper/
+Professional inquiries:
 
-Email:
 michistacklabs@gmail.com
