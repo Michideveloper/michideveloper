@@ -1,435 +1,241 @@
-# Hi, I'm José Gómez 👋
+# José Gómez
 
-## Founder @ MichiStack Labs | Building AI-Driven & Privacy-First Software Products
+## Founder @ MichiStack Labs | Building Software Products, Developer Tools & Privacy-First Systems
 
-I build software products and intelligent systems at the intersection of:
+Building software systems, developer tools, and privacy-first products.
 
-- Artificial Intelligence
-- Software Engineering
+I focus on solving complex engineering problems through:
+
+- Strong software architecture
+- Product-driven development
 - Automation
-- Data Systems
-- Privacy Engineering
-- Human-centered computing
-
-Founder of **MichiStack Labs**, an independent software lab creating AI-driven and privacy-first products designed to give users more control over their digital environment.
-
-My mission:
-
-> Build intelligent technology that helps people without requiring them to sacrifice ownership, privacy, or transparency.
-
-🌎 Guadalajara, Jalisco, Mexico
-
-🚀 Founder @ MichiStack Labs
-
-🌐 Website:
-https://michi-stack.vercel.app/
+- Developer experience
+- Privacy-first engineering
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=José%20%7C%20AI-Driven%20Software%20Builder&fontSize=40&animation=fadeIn" alt="Header Banner" />
-</p>
+# Engineering Philosophy
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Michideveloper&color=663399&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+Great software is not defined by the amount of code written.
 
----
+It is defined by:
 
-# About Me
-
-I am a software developer, founder, and multidisciplinary engineering student building scalable software systems, AI-powered workflows, and privacy-first products.
-
-I believe Artificial Intelligence is not replacing engineering.
-
-AI is becoming an engineering multiplier that allows developers to:
-
-- Prototype faster.
-- Explore more solutions.
-- Automate repetitive work.
-- Improve software quality.
-- Build products previously impossible for small teams.
+- The problems it solves
+- The systems it enables
+- The users it helps
+- The constraints it handles
 
 My approach:
 
-> Human engineering judgment + AI acceleration.
+> Build simple solutions to complex problems, with engineering discipline and continuous improvement.
 
 ---
 
-# Engineering Background
+# What I Build
 
-My perspective comes from combining three engineering disciplines:
+## Product Engineering
 
-## 💻 Software Development Engineering
+I design and build complete software products from concept to implementation.
 
-Building digital systems through:
+Focus areas:
 
-- Backend development.
-- APIs.
-- Databases.
-- Web applications.
-- Mobile applications.
-- Software architecture.
-- Automation workflows.
-
-Completed:
-
-**Associate Degree in Cross-Platform Software Development**  
-Universidad Tecnológica de Jalisco
-
-GPA: **9.6 / 10**
+- Architecture design
+- Backend systems
+- Developer tools
+- User-focused applications
+- Technical decision making
 
 ---
 
-## 🤖 Mechatronics Engineering
+## Systems Engineering
 
-Exploring intelligent physical systems through:
+Building reliable foundations:
 
-- Robotics.
-- Industrial automation.
-- Control systems.
-- Hardware/software integration.
-- Intelligent machines.
+- APIs
+- Data systems
+- Automation infrastructure
+- Testing frameworks
+- Software platforms
 
----
+Key principles:
 
-## 📈 Business Management Engineering
-
-Connecting technology with real-world impact through:
-
-- Product thinking.
-- Business strategy.
-- Process optimization.
-- Data-driven decision making.
+- Maintainability
+- Reliability
+- Performance
+- Security
+- Simplicity
 
 ---
 
-# 🐱 MichiStack Labs
+## Developer Productivity
 
-## Founder & Engineer
-
-MichiStack Labs is an independent software lab focused on building AI-driven, privacy-first, and local-first products.
-
-The philosophy:
-
-> Intelligence should improve technology, not reduce user control.
-
-We build software around:
-
-- Privacy.
-- Transparency.
-- Performance.
-- User ownership.
-- Simplicity.
-- Practical impact.
-
----
-
-# Products
-
-# 🧹 MichiClean
-
-## Privacy-first URL Cleaning Extension
-
-MichiClean is a local-first browser extension that removes tracking parameters from URLs before they leave the browser.
-
-It helps users share cleaner links and browse with more privacy without requiring:
-
-- Accounts.
-- Cloud processing.
-- Telemetry.
-- External data collection.
-
-## Engineering Principles
-
-### Local-first architecture
-
-Processing happens directly on the user's device.
-
-### Zero telemetry
-
-No browsing history collection.
-
-No URL tracking.
-
-No analytics.
-
-### Conservative privacy engineering
-
-If removing a parameter could break functionality, MichiClean prioritizes reliability over aggressive filtering.
-
----
-
-## Current Capabilities
-
-- 118 cleaning providers.
-- 34 redirect networks handled.
-- 218 regression tests.
-- 0 data transmitted.
-
----
-
-# 🐱 MichiTabs
-
-## Local-first Browser Context Management
-
-MichiTabs helps users manage browser context without losing their workflow.
-
-The problem is not having too many tabs.
-
-The problem is losing information and mental context.
-
-MichiTabs helps users:
-
-- Save browsing sessions.
-- Recover important work.
-- Organize tabs locally.
-- Close tabs without fear.
-
-## Features
-
-- Local tab management.
-- Session saving.
-- JSON import/export.
-- Domain grouping.
-- Local storage.
-- No accounts.
-- No telemetry.
-
----
-
-# AI-Driven Engineering
-
-I proudly build with AI as a development multiplier.
-
-AI helps me:
-
-- Accelerate prototyping.
-- Debug complex problems.
-- Explore architectures.
-- Improve development workflows.
-- Automate repetitive engineering tasks.
-
-I believe the next generation of engineers will not compete against AI.
-
-They will build with AI.
-
----
-
-# Privacy Engineering
-
-Privacy is not a feature added at the end.
-
-It is an architectural decision.
-
-My products follow principles such as:
-
-- Local-first processing.
-- Minimal data collection.
-- Transparent behavior.
-- User-controlled storage.
-- No unnecessary tracking.
-
----
-
-# Technical Skills
-
-## Languages
-
-- TypeScript
-- JavaScript
-- Python
-
-## Backend
-
-- Node.js
-- REST APIs
-- Backend architecture
-- Database systems
-- Service integration
-
-## Data Engineering
-
-- SQL
-- NoSQL
-- ETL pipelines
-- Data ingestion
-- Data transformation
-
-## AI Systems
-
-- AI-assisted development
-- RAG architectures
-- Intelligent workflows
-- AI automation
-- AI-native applications
-
-## Automation & Quality
-
-- Playwright
-- Postman
-- API testing
-- CI/CD workflows
-- Automated testing
-
----
-
-# Professional Experience
-
-## Founder & Engineer
-
-## MichiStack Labs
-
-**Feb 2026 - Present**
-
-Building AI-driven and privacy-first software products.
-
-Focus:
-
-- Product engineering.
-- Software architecture.
-- Privacy engineering.
-- AI-assisted workflows.
-- Turning ideas into usable products.
-
----
-
-## AI Engineering Intern
-
-## FlyRank AI
-
-**Jun 2026 - Present**
-
-Working on AI engineering projects involving:
-
-- Backend systems.
-- APIs.
-- RAG pipelines.
-- AI workflows.
-- Production-oriented development.
-
----
-
-## Software Engineer Intern
-
-## Estrategia Solidaria Grupo Consultor
-
-**May 2026 - Present**
-
-Building internal systems focused on automation and operational efficiency.
-
-Contributions:
-
-- Administrative platforms.
-- CRUD systems.
-- REST API integration.
-- Data workflows.
-- Process automation.
-
-Technologies:
-
-React.js · Ant Design · Zustand · Axios · REST APIs · AI-assisted development
-
----
-
-# Education
-
-## Universidad Tecnológica de Jalisco
-
-### Associate Degree in Cross-Platform Software Development
-
-Sep 2023 - Aug 2026
-
-Graduated with GPA:
-
-**9.6 / 10**
-
----
-
-## Universidad Tecnológica de Jalisco
-
-### Bachelor's Degree in Mechatronics Engineering
-
-Aug 2026 - May 2030
-
-Focus:
-
-- Robotics.
-- Automation.
-- Control systems.
-- Intelligent systems.
-
----
-
-## Tecnológico Nacional de México
-
-### Bachelor's Degree in Business Management Engineering
-
-Aug 2026 - Jul 2031
-
-Focus:
-
-- Strategy.
-- Process optimization.
-- Technology management.
-- Data-driven decisions.
-
----
-
-# Current Focus
+Improving how software is built.
 
 Building:
 
-- AI-native applications.
-- Privacy-first products.
-- Intelligent automation systems.
-- Scalable backend architectures.
-- Developer-focused tools.
-
-Learning:
-
-- Distributed systems.
-- Advanced AI systems.
-- Security engineering.
-- Product engineering.
+- Automation workflows
+- Testing infrastructure
+- Development tools
+- Engineering processes
 
 ---
 
-# Career Interests
+# Selected Work
 
-Interested in opportunities related to:
+## MichiClean
 
-- AI Engineering.
-- Backend Engineering.
-- Software Engineering.
-- Data Engineering.
-- Privacy Engineering.
-- Product Engineering.
+### Privacy-first URL Processing System
+
+A browser extension focused on protecting user privacy through local-first processing.
+
+Engineering decisions:
+
+- Zero external data transmission
+- Local execution architecture
+- Conservative reliability-focused filtering
+
+Impact:
+
+- 118 cleaning providers supported
+- 34 redirect networks handled
+- 218 regression tests
 
 ---
 
-# Languages
+## MichiTabs
 
-🇲🇽 Spanish  
-Native
+### Browser Context Management System
 
-🇺🇸 English  
-B2 — Professional Working Proficiency
+A local-first system designed around preserving user workflows and information context.
+
+Focus:
+
+- Data ownership
+- Local persistence
+- Workflow recovery
+- User control
 
 ---
 
-# Connect
+# Engineering Practices
+
+## Architecture
+
+I care about:
+
+- Clear boundaries
+- Maintainable systems
+- Appropriate abstractions
+- Long-term technical decisions
+
+## Quality
+
+Quality is built into the development process.
+
+Practices:
+
+- Automated testing
+- Continuous validation
+- Regression prevention
+- Reliable delivery
+
+## AI-Assisted Engineering
+
+AI is used as a force multiplier.
+
+Applications:
+
+- Faster exploration
+- Improved iteration cycles
+- Automated repetitive tasks
+- Better development workflows
+
+AI accelerates execution.
+
+Engineering judgment drives decisions.
+
+---
+
+# Technical Domains
+
+## Software Development
+
+- Backend Systems
+- Web Applications
+- APIs
+- Databases
+- Automation
+
+## Quality Engineering
+
+- End-to-end Testing
+- API Testing
+- Test Infrastructure
+
+## Data Systems
+
+- Data Processing
+- ETL Workflows
+- Storage Systems
+
+## Privacy Engineering
+
+- Local-first Architecture
+- Minimal Data Collection
+- User-controlled Systems
+
+---
+
+# Founder Experience
+
+## MichiStack Labs
+
+Building independent software products focused on:
+
+- Privacy
+- Developer experience
+- Practical technology solutions
+
+Responsibilities:
+
+- Product direction
+- Technical decisions
+- Software architecture
+- Implementation
+- Iteration
+
+---
+
+# Current Exploration
+
+Interested in:
+
+- Distributed systems
+- Security engineering
+- Large-scale software architecture
+- Developer infrastructure
+- Product engineering
+
+---
+
+# Collaboration
+
+Open to:
+
+- Building ambitious products
+- Working with engineering teams
+- Solving difficult technical problems
+- Collaborating with developers and founders
+
+---
+
+# Contact
+
+Website:
+https://michi-stack.vercel.app/
 
 LinkedIn:
-
 https://www.linkedin.com/in/michideveloper/
 
 Email:
-
 michistacklabs@gmail.com
-
----
-
-Built with curiosity, engineering discipline, and AI as a multiplier.
-
-🚀 MichiStack Labs
